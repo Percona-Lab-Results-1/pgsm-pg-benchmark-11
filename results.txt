@@ -1,0 +1,8 @@
+Iteration	Without pg_stat_monitor (ms)	With pg_stat_monitor (ms)
+1	50	55
+2	48	52
+3	52	57
+4	49	54
+5	51	56
+...	...	...
+1000	53	58
